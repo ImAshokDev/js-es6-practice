@@ -5,3 +5,5 @@
 5. for loop, while. do-while
 6. funtions
 7. Objects
+8. methods
+9. reduce
